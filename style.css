@@ -1,0 +1,68 @@
+
+
+body {
+    font-family: sans-serif ;
+}
+.za {
+    text-align: center;
+    font-size: 50px;
+}
+.za2 {
+    margin-right: 6px;
+    font-size: 50px;
+    text-align: left;
+    padding: 30px;
+}
+ul {
+    margin-left: 3px;
+}
+footer {
+     background-color: rgb(113, 116, 111);
+     width: 1000px;
+     height: 80px;
+     padding: 30px;
+}
+.icon {
+    margin-right: 6px;
+    height:3px ;
+    width:6px ;
+
+}
+header {
+    background-color: gray;
+    height: 100px;
+    width: 700px;
+}
+header nav {
+    text-align: center;
+
+    text-decoration: none;
+}
+
+nav a {
+    font-size: 30px;
+    border: 3px solid rgb(67, 64, 64);
+    border-radius: 10px;
+    background-color: #D9D9D9;
+    color: black;    
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 8px 40px 8px 40px;
+    text-decoration: none;
+
+}
+main p {
+    text-align: center;
+}
+
+nav {
+    padding-top: 30px;
+}
+
+img {
+    width: 700px;
+}
+.eee {
+    text-align: left;
+    margin-top: 20px;
+}
